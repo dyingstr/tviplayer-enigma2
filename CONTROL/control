@@ -1,0 +1,11 @@
+Package: enigma2-plugin-extensions-tviplayer
+Version: 1.0.0
+Architecture: all
+Section: extra
+Priority: optional
+Maintainer: user
+Source: https://tviplayer.iol.pt
+Description: TVI Player — navegador VOD para OpenVIX/Enigma2
+ Permite navegar e ver programas e episódios do TVI Player
+ diretamente na sua box Enigma2, por categorias,
+ com miniaturas e reprodução HLS nativa.
