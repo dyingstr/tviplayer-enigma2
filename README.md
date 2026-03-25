@@ -9,7 +9,7 @@
 
 | Main Menu | Show List | Episode List |
 |:-:|:-:|:-:|
-| ![Main Menu](screenshots/main-menu.png) | ![Show List](screenshots/show-list.png) | ![Episode List](screenshots/episode-list.png) |
+| ![Main Menu](screenshots/main-menu.jpeg) | ![Show List](screenshots/show-list.jpeg) | ![Episode List](screenshots/episode-list.jpeg) |
 
 ---
 
