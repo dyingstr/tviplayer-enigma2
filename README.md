@@ -5,6 +5,14 @@
 
 ---
 
+## Screenshots
+
+| Main Menu | Show List | Episode List |
+|:-:|:-:|:-:|
+| ![Main Menu](screenshots/main-menu.png) | ![Show List](screenshots/show-list.png) | ![Episode List](screenshots/episode-list.png) |
+
+---
+
 ## English
 
 ### Features
