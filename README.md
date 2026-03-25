@@ -1,6 +1,8 @@
 # TVI Player — Plugin para Enigma2/OpenVIX
 
-Plugin para Enigma2 que permite ver os conteúdos gratuitos de VOD do [TVI Player](https://tviplayer.iol.pt/) diretamente na sua box.
+*Enigma2 plugin to watch TVI Player VOD content (free and subscription) directly on your set-top box.*
+
+Plugin para Enigma2 que permite ver os conteúdos de VOD do [TVI Player](https://tviplayer.iol.pt/) diretamente na sua box — tanto conteúdos gratuitos como os que requerem conta/subscrição.
 
 ## Funcionalidades
 
